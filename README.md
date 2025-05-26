@@ -29,15 +29,7 @@ I'm a **Python** enthusiast with a passion for **Machine Learning** and **AI**. 
 
 ---
 
-## **🚀 Featured Projects**  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🎯 Object Detection Model](link) | YOLOv8-based custom object detector | Python, OpenCV, PyTorch |
-| [💬 NLP Chatbot](link) | Transformer-based conversational AI | TensorFlow, HuggingFace |
-| [📈 Stock Predictor](link) | LSTM time-series forecasting | Keras, Pandas, Matplotlib |
-
----
 
 ## **📊 GitHub Stats**  
 
