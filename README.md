@@ -1,6 +1,5 @@
 # 🔥 Welcome to My GitHub Profile!  
 
-![Banner](https://github.com/yourusername/yourusername/blob/main/assets/banner.gif) *← Replace with your banner*  
 
 ### **👨‍💻 About Me**  
 I'm a **Python** enthusiast with a passion for **Machine Learning** and **AI**. I build intelligent systems, experiment with neural networks, and turn data into insights.  
@@ -42,22 +41,19 @@ I'm a **Python** enthusiast with a passion for **Machine Learning** and **AI**. 
 
 ## **📊 GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A2anti&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A2anti&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ## **📫 Let’s Connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ohare-737606273/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/minosdailyszn)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minosdaily@proton.me)  
 
 ---
 
 ### **⚡ Fun Fact**  
 `print("👾 I automate boring stuff!")`  
-
-![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
-*Generated with [Platane/snk](https://github.com/Platane/snk)*  
