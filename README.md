@@ -10,7 +10,7 @@ Currently diving deeper into:
 -  Data storytelling with interactive dashboards
 
 ---
-![kali linux](./kali linux.jpeg)
+
 ##  Tech Stack
 
 ###  ML/AI  
