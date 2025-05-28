@@ -1,4 +1,4 @@
-#  Hi i'm Vyron Mino!#
+#  Hi i'm Vyron Mino!
 ![kali linux](./kali linux.jpeg)  
 ##  About Me
 I'm a **Python** enthusiast passionate about **Machine Learning** and **Artificial Intelligence**.  
@@ -10,7 +10,7 @@ Currently diving deeper into:
 -  Data storytelling with interactive dashboards
 
 ---
-
+![kali linux](./kali linux.jpeg)
 ##  Tech Stack
 
 ###  ML/AI  
