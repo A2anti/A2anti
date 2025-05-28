@@ -1,5 +1,5 @@
 #  Hi i'm Vyron Mino!
-![kali linux](./kali linux.jpeg)  
+![Atom](./Atom.jpeg)  
 ##  About Me
 I'm a **Python** enthusiast passionate about **Machine Learning** and **Artificial Intelligence**.  
 I love building intelligent systems, experimenting with neural networks, and turning raw data into valuable insights.
