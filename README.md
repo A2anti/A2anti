@@ -1,6 +1,6 @@
 # Hi, I'm Vyron Mino!
 
-![kali](./kali.jpeg)
+![kali](./Get.jpeg)
 
 ---
 
