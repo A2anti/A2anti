@@ -1,49 +1,54 @@
-![kali](./Get.jpeg)
+## **Kevin O'Hare (Mino)**
+
+**Security Engineer | Full-Stack Developer | Open-Source Contributor**
+
+Professional lead focusing on the intersection of **Offensive Security Automation**, **Distributed Systems**, and **Applied AI**.
 
 ---
 
-### **About Me**
+### **Core Focus**
 
-I'm a Python developer passionate about **Machine Learning**, **AI**, and building intelligent systems that transform raw data into actionable insights.
-
-I specialize in creating explainable, real-time, and interactive data-driven applications — from predictive APIs to AI-powered dashboards.
-
-
-
----
-
-## **Tech Stack**
-
-### **ML / AI**  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org)
-
-### **Data Science**  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com)
-
-### **DevOps & Cloud**  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+| Area | Description |
+| --- | --- |
+| **Building** | **Clustr** – Next-gen compression combining entropy coding with neural adaptive thresholds. |
+| **Learning** | Advanced backend architecture (Django), React UI optimization, and Bash-driven security ops. |
+| **Exploring** | Web security at scale, DevSecOps pipelines, and cloud penetration testing (AWS/K8s). |
+| **Vision** | Autonomous systems fusing threat intelligence with offensive automation. |
 
 ---
 
+### **Technical Portfolio**
 
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| **Clustr** | High-efficiency compression (RLE + ANS) with neural adaptive thresholding. | Python, C, Bash |
+| **Nam** | Financial fraud detection engine utilizing anomaly detection techniques. | PyTorch, Scikit-learn |
+| **Echo** | E2E encrypted P2P audio pipeline for privacy-first communication. | Rust, CPAL, ChaCha20 |
+| **Hermes** | Offensive security model leveraging RL and Computer Vision for pattern analysis. | Python, OpenCV, PyTorch |
+| **Juggernaut** | AI-augmented password cracker with cross-architecture support. | C++, CUDA, Python |
+| **QuickDrop** | Crowdsourced delivery marketplace with real-time tracking logic. | Django, React, PostgreSQL |
+| **WiFi Portal** | Captive portal system featuring Safaricom STK push and voucher auth. | Flask, SQLite, Daraja |
 
 ---
 
-## **Fun Facts**
+### **Certifications & Key Milestones**
 
-- I automate boring stuff (yes, with Python).
-- When not coding, I’m probably exploring retro games or tweaking Linux configs.
-- Espresso and model debugging go hand-in-hand.
+* **TensorFlow Developer Certificate**
+* **Speaker at PyCon 2024** – "Demystifying Black-Box Models"
+* **Top 5% Kaggle Contributor** in Machine Learning Competitions
 
-```python
-print("I automate boring stuff!")
+---
+
+### **Collaborations & Inquiries**
+
+I am currently seeking opportunities for:
+
+* **Security Tooling:** Collaboration on offensive security or secure backend architecture.
+* **Open Source:** Contributing to robust, privacy-first infrastructure.
+* **Speaking:** Engaging in technical discussions regarding AI x Security and OSINT.
+
+**[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://www.google.com/search?q=https://yourwebsite.com) | [Email**](mailto:your@email.com)
+
+---
+
+**Would you like me to create a professional SVG banner for the top of this README that includes your tech stack icons?**
