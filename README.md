@@ -23,7 +23,4 @@ I am currently seeking opportunities for:
 * **Open Source:** Contributing to robust, privacy-first infrastructure.
 * **Speaking:** Engaging in technical discussions regarding AI x Security and OSINT.
 
-**[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://www.google.com/search?q=https://yourwebsite.com) | [Email**](mailto:your@email.com)
-
----
 
